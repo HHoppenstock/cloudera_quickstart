@@ -10,7 +10,7 @@ public class HBaseCreate {
 	  public static void main(String[] args) throws IOException
 	  {
 
-		  //das ist ein Test!5
+		  //das ist ein Test!10
 
 	    HBaseConfiguration hconfig = new HBaseConfiguration(new Configuration());
 	    HTableDescriptor htable = new HTableDescriptor("User"); 
