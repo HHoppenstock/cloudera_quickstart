@@ -9,7 +9,7 @@ public class HBaseCreate {
 
 	  public static void main(String[] args) throws IOException
 	  {
-		  //das ist ein Test!4
+		  //das ist ein Test!5
 	    HBaseConfiguration hconfig = new HBaseConfiguration(new Configuration());
 	    HTableDescriptor htable = new HTableDescriptor("User"); 
 	    htable.addFamily( new HColumnDescriptor("Id"));
