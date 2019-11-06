@@ -7,7 +7,7 @@ import org.apache.hadoop.hbase.client.HBaseAdmin;
 
 public class HBaseCreate {
 
-	//Testdsgknsdl-kgb
+	//Twetwetetewtew
 	
 	  public static void main(String[] args) throws IOException
 	  {
