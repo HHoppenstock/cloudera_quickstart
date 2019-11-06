@@ -7,6 +7,8 @@ import org.apache.hadoop.hbase.client.HBaseAdmin;
 
 public class HBaseCreate {
 
+	//Development
+	
 	  public static void main(String[] args) throws IOException
 	  {
 
