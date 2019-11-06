@@ -11,6 +11,7 @@ public class HBaseCreate {
 	  {
 
 		  //das ist ein Test!10
+		  //ein weiterer Test
 
 	    HBaseConfiguration hconfig = new HBaseConfiguration(new Configuration());
 	    HTableDescriptor htable = new HTableDescriptor("User"); 
